@@ -2,7 +2,7 @@
 
 ## Schools
 - [School for poetic computation](http://sfpc.io/)
-- [School of Machines, making & make-believe] (https://schoolofma.org/)
+- [School of Machines, making & make-believe](https://schoolofma.org/)
 - [CIID](http://www.ciid.dk/)
 
 ## Journals
@@ -15,7 +15,7 @@
 - [Hypermedia and Multimedia](http://www.tandfonline.com/loi/tham20?open=21&repitition=0#vol_21)
 
 ## Labs
-- [Institute of Positive Design] (http://studiolab.ide.tudelft.nl/diopd/)
+- [Institute of Positive Design](http://studiolab.ide.tudelft.nl/diopd/)
 - [Positive computing](http://www.positivecomputing.org/)
 - [Urban prototyping] (https://grayarea.org/initiative/urban-prototyping/)
 - [Lab 3](http://interface.khm.de/)
