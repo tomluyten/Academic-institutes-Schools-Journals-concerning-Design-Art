@@ -17,7 +17,7 @@
 ## Labs
 - [Institute of Positive Design](http://studiolab.ide.tudelft.nl/diopd/)
 - [Positive computing](http://www.positivecomputing.org/)
-- [Urban prototyping] (https://grayarea.org/initiative/urban-prototyping/)
+- [Urban prototyping](https://grayarea.org/initiative/urban-prototyping/)
 - [Lab 3](http://interface.khm.de/)
 - [Waag society](http://waag.org/nl)
 - [Fluid interfaces group MIT](https://vimeo.com/fluidinterfaces/videos)
