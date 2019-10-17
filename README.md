@@ -28,3 +28,9 @@
 - [RCA Design Interactions](http://www.design-interactions.rca.ac.uk/)
 - [Interactive environments tudelft](http://studiolab.ide.tudelft.nl/ie/)
 
+#Funds and agencies
+- [The artist and the others](http://www.theartistandtheothers.nl/)
+- [Eyebeam](http://www.eyebeam.org/)
+- [Het nieuwe instituut](http://www.hetnieuweinstituut.nl/)
+- [fonds21 - kunst en cultuur](https://www.fonds21.nl/kunst-cultuur)
+- [Stimuleringsfonds (NL)](http://stimuleringsfonds.nl/)
