@@ -1,6 +1,7 @@
 # Academic institutes / Schools / Journals concerning Design/Art
 
 ## Schools
+- [Maastricht Academy of Media, Design & Technology](http://www.mamdt.nl)
 - [School for poetic computation](http://sfpc.io/)
 - [School of Machines, making & make-believe](https://schoolofma.org/)
 - [CIID](http://www.ciid.dk/)
@@ -28,7 +29,7 @@
 - [RCA Design Interactions](http://www.design-interactions.rca.ac.uk/)
 - [Interactive environments tudelft](http://studiolab.ide.tudelft.nl/ie/)
 
-#Funds and agencies
+## Funds and agencies
 - [The artist and the others](http://www.theartistandtheothers.nl/)
 - [Eyebeam](http://www.eyebeam.org/)
 - [Het nieuwe instituut](http://www.hetnieuweinstituut.nl/)
